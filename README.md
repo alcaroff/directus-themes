@@ -11,8 +11,8 @@ and copy the CSS into the `Custom CSS` part
 
 ### Grey
 
-![Alt text](/images/grey-light.jpg?raw=true "Optional Title")
-![Alt text](/images/grey-dark.jpg?raw=true "Optional Title")
+<img src="/images/grey-light.jpg" width="500">
+<img src="/images/grey-dark.jpg" width="500">
 
 ```css
 /* Grey Theme */
