@@ -1,6 +1,6 @@
 # Directus themes
 
-CSS Themes for the directus CMS interface
+CSS Themes for the directus interface
 
 ## Installation
 
