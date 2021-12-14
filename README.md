@@ -127,3 +127,7 @@ body.light {
   }
 }
 ```
+
+## Contributing
+
+You are welcome if you want to add new themes or propose to change/fix existing ones
